@@ -1,0 +1,1 @@
+[{"date": null, "number_of_tweets": 100, "number_of_positive_tweets": 45, "number_of_neutral_tweets": 41, "number_of_negative_tweets": 14, "average_polarity": 0.13143380230880228, "average_subjectivity": 0.3220604256854257}]
